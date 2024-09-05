@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+/*   
+    font-family: 'Baloo Bhai'; */
+}
+
+.logo{
+    padding: 0px 32px;
+
+}
+
+.logo img{
+    width: 5vw;
+    filter: invert(1);
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    color: white;
+    height: 17vh;
+    font-size: 30px;
+    font-family: 'Potta One';
+}
+.container{
+    font-size: 22px;
+    font-family: 'Baloo Bhai';
+    /* background-color: red; */
+    width: 60vw;
+    margin: auto;
+    padding: 30px;
+    /* filter: invert(1); */
+
+}
+.copy-to-clipboard-button{
+    cursor: pointer;
+}
+    
+
